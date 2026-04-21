@@ -12,22 +12,21 @@ O projeto busca responder a perguntas como:
 * Como a eficiência técnica (pontos, assistências, rebotes) varia em temporadas de alta vs. baixa disponibilidade?
 
 ## 📸 Telas do Dashboard
-
 Abaixo estão algumas das principais visões construídas no projeto:
 
 <div align="center">
-  <img src="C:\Users\carlo\OneDrive\Imagens\Screenshots\Captura de tela 2026-04-21 190425.png" width="48%" alt="Visão Geral do Dashboard">
-  <img src="img/tela_2.jpg" width="48%" alt="Estatísticas do Jogador">
+  <img src="Captura%20de%20tela%202026-04-21%20190425.jpg" width="48%" alt="Visão Geral do Dashboard">
+  <img src="Captura%20de%20tela%202026-04-21%20190438.jpg" width="48%" alt="Estatísticas do Jogador">
 </div>
 <br>
 <div align="center">
-  <img src="img/tela_3.jpg" width="48%" alt="Análise de Lesões">
-  <img src="img/tela_4.png" width="48%" alt="Gráficos de Desempenho">
+  <img src="Captura%20de%20tela%202026-04-21%20190449.jpg" width="48%" alt="Análise de Lesões">
+  <img src="Captura%20de%20tela%202026-04-21%20190501.png" width="48%" alt="Gráficos de Desempenho">
 </div>
 <br>
 <div align="center">
-  <img src="img/tela_5.jpg" width="48%" alt="Evolução Temporal">
-  <img src="img/tela_6.png" width="48%" alt="Detalhes Técnicos">
+  <img src="Captura%20de%20tela%202026-04-21%20190514.jpg" width="48%" alt="Evolução Temporal">
+  <img src="image_0212b2.png" width="48%" alt="Detalhes Técnicos">
 </div>
 
 ## 📊 Principais Visualizações e Métricas
