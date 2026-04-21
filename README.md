@@ -11,24 +11,6 @@ O projeto busca responder a perguntas como:
 * Qual o real impacto do tempo de afastamento nas estatísticas de jogo?
 * Como a eficiência técnica (pontos, assistências, rebotes) varia em temporadas de alta vs. baixa disponibilidade?
 
-## 📸 Telas do Dashboard
-Abaixo estão algumas das principais visões construídas no projeto:
-
-<div align="center">
-  <img src="Captura%20de%20tela%202026-04-21%20190425.jpg" width="48%" alt="Visão Geral do Dashboard">
-  <img src="Captura%20de%20tela%202026-04-21%20190438.jpg" width="48%" alt="Estatísticas do Jogador">
-</div>
-<br>
-<div align="center">
-  <img src="Captura%20de%20tela%202026-04-21%20190449.jpg" width="48%" alt="Análise de Lesões">
-  <img src="Captura%20de%20tela%202026-04-21%20190501.png" width="48%" alt="Gráficos de Desempenho">
-</div>
-<br>
-<div align="center">
-  <img src="Captura%20de%20tela%202026-04-21%20190514.jpg" width="48%" alt="Evolução Temporal">
-  <img src="image_0212b2.png" width="48%" alt="Detalhes Técnicos">
-</div>
-
 ## 📊 Principais Visualizações e Métricas
 * **Evolução de Desempenho:** Gráficos temporais mostrando as médias de pontos, assistências e minutos jogados por temporada.
 * **Mapa de Lesões:** Histórico de jogos perdidos e motivos do afastamento.
