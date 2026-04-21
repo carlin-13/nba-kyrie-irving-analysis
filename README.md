@@ -19,4 +19,4 @@ O projeto busca responder a perguntas como:
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 * **Power BI:** Tratamento de dados (Power Query), modelagem, cálculos (DAX) e construção de todo o storytelling visual.
-* **[Inserir aqui sua fonte de dados, ex: Kaggle, NBA API, Basketball-Reference]** ## 🚀 Como visualizar o Dashboard
+* **https://www.basketball-reference.com/players/i/irvinky01.html** ## 🚀 Como visualizar o Dashboard
