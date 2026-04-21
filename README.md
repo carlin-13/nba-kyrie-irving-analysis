@@ -1,4 +1,3 @@
-# nba-kyrie-irving-analysis
 
 # 🏀 Análise de Carreira: Kyrie Irving
 
@@ -12,6 +11,25 @@ O projeto busca responder a perguntas como:
 * Qual o real impacto do tempo de afastamento nas estatísticas de jogo?
 * Como a eficiência técnica (pontos, assistências, rebotes) varia em temporadas de alta vs. baixa disponibilidade?
 
+## 📸 Telas do Dashboard
+
+Abaixo estão algumas das principais visões construídas no projeto:
+
+<div align="center">
+  <img src="img/tela_1.jpg" width="48%" alt="Visão Geral do Dashboard">
+  <img src="img/tela_2.jpg" width="48%" alt="Estatísticas do Jogador">
+</div>
+<br>
+<div align="center">
+  <img src="img/tela_3.jpg" width="48%" alt="Análise de Lesões">
+  <img src="img/tela_4.png" width="48%" alt="Gráficos de Desempenho">
+</div>
+<br>
+<div align="center">
+  <img src="img/tela_5.jpg" width="48%" alt="Evolução Temporal">
+  <img src="img/tela_6.png" width="48%" alt="Detalhes Técnicos">
+</div>
+
 ## 📊 Principais Visualizações e Métricas
 * **Evolução de Desempenho:** Gráficos temporais mostrando as médias de pontos, assistências e minutos jogados por temporada.
 * **Mapa de Lesões:** Histórico de jogos perdidos e motivos do afastamento.
@@ -19,4 +37,4 @@ O projeto busca responder a perguntas como:
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 * **Power BI:** Tratamento de dados (Power Query), modelagem, cálculos (DAX) e construção de todo o storytelling visual.
-* **https://www.basketball-reference.com/players/i/irvinky01.html** ## 🚀 Como visualizar o Dashboard
+* **Base de Dados:** [Inserir aqui sua fonte de dados, ex: Kaggle, NBA API, Basketball-Reference]
