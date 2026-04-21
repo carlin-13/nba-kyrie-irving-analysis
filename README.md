@@ -16,7 +16,7 @@ O projeto busca responder a perguntas como:
 Abaixo estão algumas das principais visões construídas no projeto:
 
 <div align="center">
-  <img src=""C:\Users\carlo\OneDrive\Imagens\Screenshots\Captura de tela 2026-04-21 190425.png"" width="48%" alt="Visão Geral do Dashboard">
+  <img src="C:\Users\carlo\OneDrive\Imagens\Screenshots\Captura de tela 2026-04-21 190425.png" width="48%" alt="Visão Geral do Dashboard">
   <img src="img/tela_2.jpg" width="48%" alt="Estatísticas do Jogador">
 </div>
 <br>
